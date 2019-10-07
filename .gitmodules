@@ -1,12 +1,12 @@
 [submodule "charactersheet"]
 	path = src/charactersheet
-    	url = https://github.com/Rolisteam/RCharacterSheet.git
-    	pushURL = git@github.com:Rolisteam/RCharacterSheet.git
+    	url = https://github.com/Ocxyde/RCharacterSheet.git
+    	pushURL = git@github.com:Ocxyde/RCharacterSheet.git
 [submodule "diceparser"]
 	path = src/diceparser
-	url = https://github.com/Rolisteam/DiceParser.git
-    	pushURL = git@github.com:Rolisteam/DiceParser.git
+	url = https://github.com/Ocxyde/DiceParser.git
+    	pushURL = git@github.com:Ocxyde/DiceParser.git
 [submodule "common"]
 	path = src/common
-    	url = https://github.com/Rolisteam/common.git
+    	url = https://github.com/Ocxyde/common.git
     #pushURL = git@invent.kde.org:kde/rolisteam-common.git
